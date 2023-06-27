@@ -1,0 +1,2 @@
+,model_ERM_clean_56.pt,model_MSD_ERM_51.pt,model_MSD_REx_99.pt,model_PGD_Linf_103.pt,model_std_ERM_140.pt,model_std_REx_110.pt
+Accuracy,28.9±0.1,28.4±0.1,27.7±0.1,29.3±0.1,25.9±0.2,27.7±0.2

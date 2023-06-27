@@ -1,0 +1,3 @@
+,model_PGD_Linf_103.pt,model_MSD_ERM_51.pt,model_MSD_REx_99.pt,model_std_ERM_140.pt,model_std_REx_110.pt,model_ERM_clean_56.pt,0082.ckpt.pth
+recoloradv,50.5,56,58.2,24.5,63.5,0.6,17.3
+stadv,12.1,17.6,22.7,4,31.8,0,14.1
